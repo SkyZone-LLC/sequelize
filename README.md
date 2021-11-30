@@ -12,9 +12,6 @@ For these docs, we will be doing everything with Sequelize V4, Postgresql, on OS
 
 Sequelize has lots of ways of doing things. Within these docs, we will only present the one way of doing things. So it is both a usage guide and a style guide.
 
-These docs are built using [docify-cli](https://www.npmjs.com/package/docsify-cli) and hosted using [Github Pages](https://pages.github.com/).
-
-
 # Quick Start: Getting Connected
 
 1. Sequelize works with many flavors of SQL databases, so install one of them your computer.
